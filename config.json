@@ -1,0 +1,11 @@
+{
+    "params":{
+        "openai_organization": "",
+        "openai_api_key": "",
+        "gemini_api_key": "AIzaSyBfEo7TBJGS6ZLnpckCyHtbkcuNSImsFkI",
+        "audiostack_api_key": "63671946-e5e5-4388-a405-eac9f6e942f1", 
+        "azure_vision_key": "", 
+        "azure_speech_key": "",
+        "azure_speech_region": ""
+    }
+}
